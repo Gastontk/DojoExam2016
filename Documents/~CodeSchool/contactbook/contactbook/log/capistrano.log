@@ -1,0 +1,21 @@
+# Logfile created on 2016-07-01 12:11:24 -0700 by logger.rb/47272
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-01 12:11:24 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [55b852ac] Running ~/.rvm/bin/rvm version as deploy@52.10.107.57
+ DEBUG [55b852ac] Command: ~/.rvm/bin/rvm version
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-01 12:12:36 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [8196072b] Running ~/.rvm/bin/rvm version as deploy@52.10.107.57
+ DEBUG [8196072b] Command: ~/.rvm/bin/rvm version
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-01 12:13:30 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [5babd4c4] Running ~/.rvm/bin/rvm version as deploy@52.10.107.57
+ DEBUG [5babd4c4] Command: ~/.rvm/bin/rvm version
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-01 12:15:25 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [240186c0] Running ~/.rvm/bin/rvm version as deploy@52.10.107.57
+ DEBUG [240186c0] Command: ~/.rvm/bin/rvm version
