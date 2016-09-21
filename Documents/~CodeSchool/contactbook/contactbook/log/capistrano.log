@@ -19,3 +19,22 @@
   INFO ---------------------------------------------------------------------------
  DEBUG [240186c0] Running ~/.rvm/bin/rvm version as deploy@52.10.107.57
  DEBUG [240186c0] Command: ~/.rvm/bin/rvm version
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-07 11:39:22 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [fa162b97] Running ~/.rvm/bin/rvm version as deploy@52.34.215.130
+ DEBUG [fa162b97] Command: ~/.rvm/bin/rvm version
+ DEBUG [fa162b97] 	rvm 1.27.0 (latest) by Wayne E. Seguin <wayneeseguin@gmail.com>, Michal Papis <mpapis@gmail.com> [https://rvm.io/]
+ DEBUG [fa162b97] 	
+ DEBUG [fa162b97] Finished in 0.771 seconds with exit status 0 (successful).
+ DEBUG [8ebfa0aa] Running ~/.rvm/bin/rvm current as deploy@52.34.215.130
+ DEBUG [8ebfa0aa] Command: ~/.rvm/bin/rvm current
+ DEBUG [8ebfa0aa] 	ruby-2.3.0
+ DEBUG [8ebfa0aa] 	
+ DEBUG [8ebfa0aa] Finished in 0.691 seconds with exit status 0 (successful).
+ DEBUG [8d90ef2a] Running ~/.rvm/bin/rvm jruby-1.7.19 do ruby --version as deploy@52.34.215.130
+ DEBUG [8d90ef2a] Command: ~/.rvm/bin/rvm jruby-1.7.19 do ruby --version
+ DEBUG [8d90ef2a] 	[31mUnknown ruby string (do not know how to handle): jruby-1.7.19.[0m
+ DEBUG [8d90ef2a] 	
+ DEBUG [8d90ef2a] 	[31mRuby jruby-1.7.19 is not installed.[0m
+ DEBUG [8d90ef2a] 	
