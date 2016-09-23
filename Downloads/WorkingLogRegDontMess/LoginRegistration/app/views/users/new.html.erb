@@ -114,7 +114,7 @@
 
 
       <% if @user.errors.include?(:password) %>
-            <div style='color:red;'> Password: <%= f.text_field :password %> </div><br>
+            <div style='color:red;'> Password: <%= f.password_field :password %> </div><br>
       <% else %>  
             Password:         <%= f.password_field :password %> <br>
       <% end %> 
